@@ -23,7 +23,7 @@ Guofeng Z, Ziqi S, Kelin M, Kunlin L, Zhenbang C, and Ji W.
 SYSTEM REQUIREMENTS :-
 ---------------------
 0) Ubuntu 22.04
-1) >= python 3.6.1
+1) python >= 3.6.1
 
 
 DOWNLOAD :-
